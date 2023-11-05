@@ -1,14 +1,8 @@
 ## ezen-final
-파이널 프로젝트-모델2이용 그룹웨어 제작
-
-## 프로젝트 소개
-그룹웨어 사이트 입니다.
-
-## 개발 기간
-2023.07.17 ~ 2023.09.06
-
-## 구성 인원
-5명
+**프로젝트 소개**
+- 파이널 프로젝트-모델2를 이용한 그룹웨어 사이트 입니다.
+- 개발 기간 : 2023.07.17 ~ 2023.09.06
+- 구성 인원 : 5명
 
 ## 맡은 역할
 **1. 통합 게시판 기능**
@@ -24,11 +18,15 @@
 - 사원 주소록 관리(등록, 수정, 삭제)
 
 ## 개발 환경
-- 언어 :
-- 프론트엔드 :
-- 데이터베이스 :
-- IDE :
-- 웹 어플리케이션 서버(WAS) :
+**Front-End**
+HTML, CSS, JavaScript, BootStrap5.2, jQuery 3.7
+**Common**
+Windows 10~11, GitHub5.0, sts 4.19.0
+**Back-End**
+Apache Tomcat 10.1, spring boot 3.1.2, spring 6.0.10, MyBatis 3.0.2, Oracle 18c ex,
+sqlDeveloper 22.2.1.234, exERD 3.3.32, JSP 3.1, JSTL 2.0, JAVA JDK 17, StarUML
+**API**
+PortOne, Apache POI, Daum postcode API, CKEditor4, Google Maps API, FullCalendar API
 
 ## 주요 기능
 
