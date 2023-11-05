@@ -19,14 +19,13 @@
 
 ## 개발 환경
 **Front-End**
-HTML, CSS, JavaScript, BootStrap5.2, jQuery 3.7
+- HTML, CSS, JavaScript, BootStrap5.2, jQuery 3.7
 **Common**
-Windows 10~11, GitHub5.0, sts 4.19.0
+- Windows 10~11, GitHub5.0, sts 4.19.0
 **Back-End**
-Apache Tomcat 10.1, spring boot 3.1.2, spring 6.0.10, MyBatis 3.0.2, Oracle 18c ex,
-sqlDeveloper 22.2.1.234, exERD 3.3.32, JSP 3.1, JSTL 2.0, JAVA JDK 17, StarUML
+- Apache Tomcat 10.1, spring boot 3.1.2, spring 6.0.10, MyBatis 3.0.2, Oracle 18c ex, sqlDeveloper 22.2.1.234, exERD 3.3.32, JSP 3.1, JSTL 2.0, JAVA JDK 17, StarUML
 **API**
-PortOne, Apache POI, Daum postcode API, CKEditor4, Google Maps API, FullCalendar API
+- PortOne, Apache POI, Daum postcode API, CKEditor4, Google Maps API, FullCalendar API
 
 ## 주요 기능
 
