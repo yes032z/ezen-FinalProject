@@ -12,10 +12,16 @@
 - 관리자뷰 통합 게시판 관리, 게시판별 작성 수 추이
 
 **2. 사원, 부서관련 기능**
-- 사원뷰 사원 정보 수정, 관리자뷰 사원 뷰(같은 뷰에서 등록, 수정 처리)
+- 사원뷰 사원 정보 수정, 관리자뷰 사원 등록,수정(같은 뷰에서 처리)
 - 사원뷰 조직도, 관리자뷰 조직도 관리
 - 관리자뷰 부서 생성,수정, 삭제
 - 사원 주소록 관리(등록, 수정, 삭제)
+
+**3. 부가 기능**
+- 비밀번호 암호화
+- 페이징 처리(일반, AJAX 활용)
+- AJAX와 모달 활용한 서버 비동기 방식처리
+- API 이용(Apache POI, Daum postcode API, CKEditor4)
 
 ## 개발 환경
 **Front-End**
@@ -29,6 +35,4 @@
 
 ## 사용된 API
 PortOne, Apache POI, Daum postcode API, CKEditor4, Google Maps API, FullCalendar API
-
-## 주요 기능
 
