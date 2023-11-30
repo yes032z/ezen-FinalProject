@@ -41,12 +41,12 @@ public interface ConstUtil {
 	
 	//관리자 페이지 - 사원 이미지 저장 경로
 	String IMAGE_FILE_UPLOAD_PATH = "images";
-	//String IMAGE_FILE_UPLOAD_PATH_TEST = "D:\\lecture\\workspace_list\\sp_final_ws\\final\\gw\\src\\main\\webapp\\images";
+	//String IMAGE_FILE_UPLOAD_PATH_TEST = "D:\\lecture\\workspace_list\\sp_final_ws\\ezen-final\\gw\\src\\main\\webapp\\images";
 	//String IMAGE_FILE_UPLOAD_PATH_TEST="C:\\Users\\Desktop\\git\\final4\\gw\\src\\main\\webapp\\images";
 	String IMAGE_FILE_UPLOAD_PATH_TEST = "images";
 	//String IMAGE_FILE_UPLOAD_PATH_TEST="C:\\Users\\Desktop\\git\\final4\\gw\\src\\main\\webapp\\images";
 	//String IMAGE_FILE_UPLOAD_PATH_TEST = "C:\\Users\\ezen\\git\\final\\gw\\src\\main\\webapp\\images";
-	//String IMAGE_FILE_UPLOAD_PATH_TEST = "D:\\lecture\\workspace_list\\final_ws\\final\\gw\\src\\main\\webapp\\images";  채영
+	//String IMAGE_FILE_UPLOAD_PATH_TEST = "D:\\lecture\\workspace_list\\final_ws\\ezen-final\\gw\\src\\main\\webapp\\images";
 	
 	//관리자 페이지 - 공지사항 자료실 이용한 파일 저장 경로
 	String NOTICE_FILE_UPLOAD_PATH="pds_upload";
