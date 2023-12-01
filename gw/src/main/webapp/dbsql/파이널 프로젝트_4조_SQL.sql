@@ -1502,7 +1502,7 @@ CREATE SEQUENCE STATE_SEQ
   NOCACHE;
 
 
---VIEW(ºä)
+--VIEW(ºä) 
 
 --------------------------------------------------------
 --  DDL for View ADMINCLUBVIEW
