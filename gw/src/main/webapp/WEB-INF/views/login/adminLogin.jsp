@@ -86,10 +86,12 @@
                 </div>
                  <form name="adminLoginFrm" method="post" action="<c:url value='/admin/login'/>">
                   <div class="mb-3">
-                    <input class="form-control" name="empNo" type="text" placeholder="관리자 사원번호" value="${cookie.ck_empNo.value}" />
+                    <input class="form-control" name="empNo" type="text" 
+                    	placeholder="기본관리자 사원번호 : 230003" value="${cookie.ck_empNo.value}" />
                   </div>
                   <div class="mb-3">
-                    <input class="form-control" name="pwd" type="password" placeholder="Password" />
+                    <input class="form-control" name="pwd" type="password" 
+                    	placeholder="기본관리자 비밀번호 : 1234" />
                   </div>
                   <div class="row flex-between-center">
                     <div class="col-auto">

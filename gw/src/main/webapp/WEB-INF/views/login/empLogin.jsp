@@ -101,13 +101,15 @@
                     </div>
                     <form name="loginform" method="post" action="<c:url value='/login/empLogin'/>">
                       <div class="mb-3">
-                        <input class="form-control" id="empNo" name="empNo" type="text" value="${cookie.ck_empNo.value}"/>
+                        <input class="form-control" id="empNo" name="empNo" type="text" 
+                        	placeholder="기본 사원번호 : 230003" value="${cookie.ck_empNo.value}"/>
                       </div>
                       <div class="mb-3">
                         <div class="d-flex justify-content-between">
                           <label class="form-label" for="split-login-password">Password</label>
                         </div>
-                        <input class="form-control" name="pwd" id="split-login-password" type="password" />
+                        <input class="form-control" name="pwd" id="split-login-password" type="password" 
+                        	placeholder="기본 비밀번호 : 1234"/>
                       </div>
                       <div class="row flex-between-center">
                         <div class="col-auto">
