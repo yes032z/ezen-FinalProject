@@ -17,4 +17,5 @@ public class BoardVO { //게시글목록
 	private int groupNo; //그룹번호
 	private int step; //게시글단계
 	private int sortNo; //정렬순서
+	private int likecount; //추천수
 }
