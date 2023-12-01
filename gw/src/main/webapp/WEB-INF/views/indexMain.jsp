@@ -91,34 +91,7 @@
             </div>
    
    
-    
-
-    
-    
-    <div class="card mb-3">
-     <div class="card-header">
-       <div class="row flex-between-end">
-         <div class="col-auto align-self-center">
-           <h5 class="mb-0" data-anchor="data-anchor"></h5>
-         </div>
-         <div class="col-auto ms-auto">
-         	<a href="<c:url value='/calendar/fullCalendar'/>">
-				캘린더   	
-         	</a>	
-         </div>
-       </div>
-     </div>
-      <div class="card-body bg-light">
-        <div class="tab-content">
-          <div class="tab-pane preview-tab-pane active" role="tabpanel" aria-labelledby="tab-dom-dc27c0b8-dabf-405a-865d-4aaf2768bcc7" id="dom-dc27c0b8-dabf-405a-865d-4aaf2768bcc7" style="width:100%;">
-            <div class="input-group flex-nowrap" >
-            	<c:import url="/indexCalendar"></c:import>
-            </div>
-          </div>
-        </div>
-      </div>
-   
-   	<div class="row g-3 mb-3">
+         <div class="row g-3 mb-3">
           <div class="col-lg-6">
             <div class="card">
               <div class="card-header">
@@ -134,7 +107,7 @@
               </div>
               <div class="card-body bg-light">
                 <div class="tab-content">
-                  <div class="tab-pane preview-tab-pane active" role="tabpanel" aria-labelledby="tab-dom-c5b10b85-baad-4da8-b18b-2973cbe42fac" id="dom-c5b10b85-baad-4da8-b18b-2973cbe42fac">
+                  <div class="tab-pane preview-tab-pane active" style="height: 170px;" role="tabpanel" aria-labelledby="tab-dom-c5b10b85-baad-4da8-b18b-2973cbe42fac" id="dom-c5b10b85-baad-4da8-b18b-2973cbe42fac">
 					<c:import url="/board/noticeList5"></c:import>
                   </div>
                   </div>
@@ -210,15 +183,38 @@
                 </div>
                 <div class="card-body bg-light">
                   <div class="tab-content">
-                    <div class="tab-pane preview-tab-pane active" role="tabpanel" aria-labelledby="tab-dom-c5b10b85-baad-4da8-b18b-2973cbe42fac" id="dom-c5b10b85-baad-4da8-b18b-2973cbe42fac">
+                    <div class="tab-pane preview-tab-pane active" style="height: 170px;" role="tabpanel" aria-labelledby="tab-dom-c5b10b85-baad-4da8-b18b-2973cbe42fac" id="dom-c5b10b85-baad-4da8-b18b-2973cbe42fac">
 						<c:import url="/pds/newFiveList"></c:import>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            
-  			</div>
-          
-  
+  		  </div>
+    
+    
+    <div class="card mb-3">
+     <div class="card-header">
+       <div class="row flex-between-end">
+         <div class="col-auto align-self-center">
+           <h5 class="mb-0" data-anchor="data-anchor"></h5>
+         </div>
+         <div class="col-auto ms-auto">
+         	<a href="<c:url value='/calendar/fullCalendar'/>">
+				일정 확인하기   	
+         	</a>	
+         </div>
+       </div>
+     </div>
+      <div class="card-body bg-light">
+        <div class="tab-content">
+          <div class="tab-pane preview-tab-pane active" role="tabpanel" aria-labelledby="tab-dom-dc27c0b8-dabf-405a-865d-4aaf2768bcc7" id="dom-dc27c0b8-dabf-405a-865d-4aaf2768bcc7" style="width:100%;">
+            <div class="input-group flex-nowrap" >
+            	<c:import url="/indexCalendar"></c:import>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+    
+    
