@@ -47,7 +47,7 @@
               <div class="card-header">
                 <div class="row flex-between-end">
                   <div class="col-auto align-self-center">
-                    <h5 class="mb-0" data-anchor="data-anchor">근무상태</h5>
+                    <h5 class="mb-0">근무상태</h5>
                   </div>
                   <div class="col-auto ms-auto">
                   	      <a href="<c:url value='/commute/status'/>" 
@@ -71,7 +71,7 @@
                 <div class="card-header">
                   <div class="row flex-between-end">
                     <div class="col-auto align-self-center">
-                      <h5 class="mb-0" data-anchor="data-anchor">오늘의 날씨</h5>
+                      <h5 class="mb-0">오늘의 날씨</h5>
                     </div>
                     <div class="col-auto ms-auto">
                     </div>
@@ -97,7 +97,7 @@
               <div class="card-header">
                 <div class="row flex-between-end">
                   <div class="col-auto align-self-center">
-                    <h5 class="mb-0" data-anchor="data-anchor">공지사항</h5>
+                    <h5 class="mb-0">공지사항</h5>
                   </div>
                   <div class="col-auto ms-auto">
                    <a href="<c:url value='/board/noticeList'/>" 
@@ -121,7 +121,7 @@
                 <div class="card-header">
                   <div class="row flex-between-end">
                     <div class="col-auto align-self-center">
-                      <h5 class="mb-0" data-anchor="data-anchor">결재</h5>
+                      <h5 class="mb-0">결재</h5>
                     </div>
                     <div class="col-auto ms-auto">
                       <a href="<c:url value='/approval/confirmList'/>" 
@@ -146,7 +146,7 @@
                 <div class="card-header">
                   <div class="row flex-between-end">
                     <div class="col-auto align-self-center">
-                      <h5 class="mb-0" data-anchor="data-anchor">쪽지함</h5>
+                      <h5 class="mb-0">쪽지함</h5>
                     </div>
                     <div class="col-auto ms-auto">
                     	<a href="<c:url value='/message/messageList'/>" 
@@ -171,7 +171,7 @@
                 <div class="card-header">
                   <div class="row flex-between-end">
                     <div class="col-auto align-self-center">
-                      <h5 class="mb-0" data-anchor="data-anchor">자료실</h5>
+                      <h5 class="mb-0">자료실</h5>
                     </div>
                     <div class="col-auto ms-auto">
 	                    <a href="<c:url value='/pds/list'/>"
@@ -197,7 +197,7 @@
      <div class="card-header">
        <div class="row flex-between-end">
          <div class="col-auto align-self-center">
-           <h5 class="mb-0" data-anchor="data-anchor"></h5>
+           <h5 class="mb-0">캘린더</h5>
          </div>
          <div class="col-auto ms-auto">
          	<a href="<c:url value='/calendar/fullCalendar'/>">
