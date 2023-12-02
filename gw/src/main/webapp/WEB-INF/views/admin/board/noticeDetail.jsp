@@ -88,8 +88,8 @@
 	                </c:if>
                 	<c:if test="${!empty prevMap['MAX(BOARD_NO)']}">
 	                 <a style="color: black;" href="<c:url value='/admin/board/noticeDetail?boardNo=${prevMap["MAX(BOARD_NO)"]}'/>">이전 글&nbsp;&nbsp;|&nbsp;&nbsp;${prevMap['TITLE']}</a>
-	                 <br>
 	                </c:if>
+	                <br>
 	                <c:if test="${empty nextMap['MIN(BOARD_NO)']}">
 	                 다음 글이 없습니다.
 	                </c:if>
