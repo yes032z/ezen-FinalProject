@@ -1841,7 +1841,7 @@ JOIN
 JOIN
     "EMPLOYEE" emp ON res."EMP_NO" = emp."EMP_NO";
 --------------------------------------------------------
---  DDL for View SECONDMARKETVIEW
+--  DDL for View SECONDMARKETVIEW 
 --------------------------------------------------------
 
 CREATE OR REPLACE NONEDITIONABLE VIEW "SECONDMARKETVIEW" ("EMP_NO", "NAME", "TRADE_NO", "TITLE", "PRODUCT", "PRICE", "DISCRIPTION", "REGDATE", "READCOUNT", "SELFLAG", "LIKECOUNT", "BOARDLIST_NO", "IMAGE") AS select s.emp_no, e.name, s.trade_no, s.title, 
