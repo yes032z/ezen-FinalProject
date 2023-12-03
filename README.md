@@ -4,7 +4,7 @@
 - 개발 기간 : 2023.07.17 ~ 2023.09.06
 - 구성 인원 : 5명
 - 프로젝트 PPT<BR>
-https://docs.google.com/presentation/d/1bB7x3bhNNej31i_0qQjMMFVE_uALWlR3/edit?usp=drive_link&ouid=110557824789126834018&rtpof=true&sd=true
+[https://docs.google.com/presentation/d/1bB7x3bhNNej31i_0qQjMMFVE_uALWlR3/edit?usp=drive_link&ouid=110557824789126834018&rtpof=true&sd=true](https://docs.google.com/presentation/d/1q7BhOohnQD79Kggv8_QrDU0JGzhU3XWM/edit?usp=drive_link&ouid=110557824789126834018&rtpof=true&sd=true)
 ## 맡은 역할
 **1. 통합 게시판 기능**
 - 사원뷰 통합게시판(부서별 게시판 - 동적 게시판)
