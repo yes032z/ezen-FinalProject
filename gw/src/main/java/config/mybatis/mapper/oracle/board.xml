@@ -272,7 +272,7 @@
 	   	 			and ${searchCondition} LIKE '%'|| #{searchKeyword} ||'%'
 	      		</if>
 	      		and delflag='N'
-				order by regdate desc
+				order by board_no desc
 			)A
 		)
 		<![CDATA[
